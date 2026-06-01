@@ -31,7 +31,7 @@ També compto amb experiència en la reparació i muntatge d'equips en entorns i
 
 * [**Analitzador de protocols Wireshark**](https://github.com/joel81014/AA5-Wireshark) — Auditoria de seguretat i anàlisi forense de xarxes en viu i mitjançant captures (`.pcapng`). Diagnòstic detallat de protocols de comunicació (ICMP, ARP, DNS, FTP, SSH, Telnet) i detecció de fugues d'informació o credencials exposades.
 
-* [**Configuració de tallafocs i VPN**](https://github.com/joel81014/UD10.-Activitats-SAMBA) — Desplegament d'un entorn de xarxa segur darrere d'un tallafocs IPFire. Implementació de regles de redirecció de ports (DNAT) per a serveis públics (HTTP/SSH) i configuració d'un túnel privat xifrat utilitzant OpenVPN per a un accés remot segur.
+* [**Configuració de tallafocs i VPN**](https://github.com/joel81014/UD9.AA4-Acc-s-xarxes-p-bliques) — Desplegament d'un entorn de xarxa segur darrere d'un tallafocs IPFire. Implementació de regles de redirecció de ports (DNAT) per a serveis públics (HTTP/SSH) i configuració d'un túnel privat xifrat utilitzant OpenVPN per a un accés remot segur.
 
 * [**Activitats Samba**](https://github.com/joel81014/UD10.-Activitats-SAMBA) — Implementació i administració de servidors de fitxers compartits Samba en entorns Linux integrats amb clients Windows. Configuració de directoris privats i públics, control d'accessos de xarxa i gestió avançada de permisos d'usuari.
 
